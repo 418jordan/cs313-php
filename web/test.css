@@ -1,0 +1,100 @@
+
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+}
+
+footer {
+    background-color: black;
+    padding: 25px;
+}
+footer p {
+    color: white;
+}
+
+.navbar-inverse {
+    background-color: black;
+}
+
+
+.navbar-inverse .navbar-brand {
+    color: white;
+    background-color: black;
+}
+
+.navbar-nav {
+    margin: 0 100px;
+}
+.navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
+    margin-left: 0;
+}
+.navbar-collapse {
+    box-shadow: none;
+    width: auto;
+}
+ul:hover {
+    background-color: darkgray;
+    
+}
+.rightfooterfloat {
+    float: right;
+    padding: 15px;
+}
+.leftfooterfloat {
+    float: left;
+}
+
+.container-fluid {
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.navbar .container-fluid {
+    padding-left: 1%;
+}
+    .itemradius {
+        border-radius: 25px;
+    }
+
+.menu {
+    display: none;
+        font-size: 1.25em;
+
+}
+.menu ul {
+        list-style: none;
+        color: white;
+        font-size: 2em;
+
+
+}
+
+
+.menu2 {
+    display: none;
+    list-style: none;
+    font-size: 1.25em;
+
+}
+.menu2 ul {
+        list-style: none;
+        color: white;
+        font-size: 2em;
+
+}
+
+#showmenu {
+    color: white;
+    font-size: 1.25em;
+}
+#showmenu2 {
+    color: white;
+    font-size: 1.25em;
+}
+
+
+.bodyimg {
+    background-image: url(maninbuilding.jpg);
+    background-size: 100%;
+    
+         background-repeat: no-repeat;
+}
