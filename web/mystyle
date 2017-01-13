@@ -1,0 +1,14 @@
+.divStyle1 {
+	font-size: 2em;
+	background-color: black;
+}
+
+.divStyle2 {
+	font-size: 3em;
+	background-color: red;
+}
+
+.divStyle3 {
+	font-size: 4em;
+	background-color: yellow;
+}
